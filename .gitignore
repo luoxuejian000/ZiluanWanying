@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.Python
+.DS_Store
+*.log
+session_log.jsonl
+.vscode/
+.idea/
+*.egg-info/
+.tox/
+.coverage
+htmlcov/
+.pytest_cache/
